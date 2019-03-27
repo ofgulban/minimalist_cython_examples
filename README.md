@@ -2,7 +2,7 @@
 Here are some simple cython examples derived from references [1, 2]. This repository is also intended to show basics of version control. For further reading see [3].
 
 ## References
-1. <https://nbviewer.jupyter.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day10_fortran_lstsqr.ipynb>
+1. [A very nice introduction to cython.](https://nbviewer.jupyter.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day10_fortran_lstsqr.ipynb)
 
 2. <https://gist.github.com/synapticarbors/91544fb0e392ef84dac1>
 
